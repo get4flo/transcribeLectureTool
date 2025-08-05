@@ -1,0 +1,4 @@
+audioTrack/*.mp3
+transcribedVideos/*
+!transcribedVideos/*.gitkeep
+videos/*.mp4
